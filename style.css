@@ -1,0 +1,24 @@
+.campus_mainDiv{
+    border:1px soild lightgrey;
+}
+.campus_mainDiv img{
+    width:100%;
+}
+.campus_mainDiv .campus_mainDiv p{
+    margin:20px;
+}
+.school_head{
+    font-size:20px;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.school_head i{
+    float:right;
+}
+.Achievement_text span{
+    color:orange;
+}
+#Contact-us iframe{
+    width:100%
+}
